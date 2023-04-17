@@ -1,0 +1,57 @@
+body {
+    font-family: Helvetica, Arial, sans-serif;
+    margin: 0px;
+}
+
+body > header {
+    background-color: rgb(80, 174, 237);
+    color: white;
+}
+
+h1 {
+    margin: 0px;
+    padding: 20px;
+}
+
+body > header > nav > ul {
+    list-style: none;
+    margin: 0px;
+    padding: 0px 20px 20px 50px;
+}
+
+body > header > nav > ul > li > a {
+    color: white;
+}
+
+body > footer {
+    background-color: rgb(80, 174, 237);
+    color: white;
+    margin: 0px;
+    text-align: center;
+}
+
+img {
+    width: 20%
+}
+
+article {
+    margin: auto;
+    width: 70%;
+}
+
+footer {
+    padding: 10px
+}
+
+.users{
+    width: 10%;
+}
+
+textarea {
+    height: 100px;
+    width: 100%;
+}
+
+.submit_button2 {
+    margin: 0 0 0 94%
+}
